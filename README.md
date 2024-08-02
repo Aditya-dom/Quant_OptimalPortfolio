@@ -161,7 +161,6 @@ An example of shrinkage will be Ledoit-Wolf Single-Index Model Covariance Shrink
 
 $$\hat{r}_{i,t} = \alpha_i + \beta_i \hat{r}_{m,t} + \epsilon_{i,t}$$
 
-
 We calculate \($\beta_i$\) and \($\alpha_i$\) from regression, and we assume the error \($\epsilon\$) is independent and normally distributed, i.e., \($\text{Cov}(\epsilon_i, \epsilon_j) = 0\$), \($\text{Cov}(\hat{r}_m, \epsilon_i) = 0\$), and \($\mathbb{E}[\epsilon] = 0\$), \($\text{Var}(\epsilon) = \sigma_i^2\$). Given this, we let the shrinkage matrix be:
 
 $$F = \beta \beta^T hat{\sigma}_m^2 + Sigma_{\epsilon}$$
