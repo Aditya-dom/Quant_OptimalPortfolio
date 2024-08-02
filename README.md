@@ -165,7 +165,7 @@ We calculate \(\beta_i\) and \(\alpha_i\) from regression, and we assume the err
 
 $$F = \beta \beta^T \hat{\sigma}_m^2 + \Sigma_{\epsilon}$$
 
-where \(\Sigma_{\epsilon}\) is the diagonal matrix of error variances. We can now calculate the shrunk covariance matrix as:
+where \($\Sigma_{\epsilon}$\) is the diagonal matrix of error variances. We can now calculate the shrunk covariance matrix as:
 
 $$Sigma = \alpha F + (1 - \alpha) S$$
 
