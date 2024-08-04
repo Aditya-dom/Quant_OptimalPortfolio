@@ -8,7 +8,7 @@
 
 **Quant_OptimalPortfolio** is an open source library for portfolio optimisation. This library implements classical portfolio optimisation techniques for equities, but is also extendable for non-equity products given the right adjustments in invariants. Furthermore, certain modern advances in portfolio optimisation, such as Hierarchical Risk Parity is also implemented. 
 
-Regardless of whether you are a fundamental investor, or an algorithmic trader, this library can aid you in allocating your capital in the most risk efficient way, allowing to optimise your utility. *For more details on the project design and similar content, please check out my [Blog](https://arawn.live)*
+Regardless of whether you are a fundamental investor, or an algorithmic trader, this library can aid you in allocating your capital in the most risk efficient way, allowing to optimise your utility. *For more details on the project design and similar content, please check out my [Blog](https://arawn.live/posts/Marketprinciple/)*
 
 *Disclaimer: This is not trading or investment advice. Trading involves significant risk and do so at your risk.*
 
